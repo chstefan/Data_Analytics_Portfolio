@@ -35,7 +35,7 @@ CREATE TABLE apps (
     last_updated DATE,
     current_version VARCHAR(50),
     android_version VARCHAR(50)
-);
+); ´´´
 
 ## Analysis
 
